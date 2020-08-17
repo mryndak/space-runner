@@ -1,0 +1,8 @@
+3 [ lvl: 3 ]  - XXX1
+2 ( lvl: 3 ) - Orgeusz Suko
+2 ( lvl: 3 ) - A
+1 [( lvl: 3 )]  - aaax
+1 ( lvl: 3 ) - Kajko
+0 [ lvl: 3 ]  - aaa
+0 [ lvl: 3 ]  - a
+0 ( lvl: 3 ) - XXX
