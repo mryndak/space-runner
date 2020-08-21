@@ -243,11 +243,11 @@ public class GameViewManager {
         gameTimer = new AnimationTimer() {
             @Override
             public void handle(long now) {
-//                moveBackground();
-//                checkIfElementsAreBehindTheShipAndRelocate();
-//                checkifElementsCollide();
-//                moveGameElements();
-//                moveShip();
+                moveBackground();
+                checkIfElementsAreBehindTheShipAndRelocate();
+                checkifElementsCollide();
+                moveGameElements();
+                moveShip();
                 gameMode();
             }
         };
